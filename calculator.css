@@ -19,7 +19,7 @@ body {
 
 /* Display */
 .display {
-		background-color: #bfc4ce;
+		background-image: url("trippy.gif");
 		width: 220px;
 		position: relative;
 		left: 15px;
@@ -33,7 +33,7 @@ body {
 			height: 30px;
 			width: 210px;
 			color: black;
-			background-color: #bccd95;
+			background-image: url("trippy.gif");
 			font-size: 21px;
 			text-align: right;
 }
