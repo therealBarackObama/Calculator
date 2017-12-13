@@ -60,13 +60,13 @@ body {
 }
 .button.operator {
 		color: white;
-		background-color:#820b0b;
+		background-image: url("trippy.gif");
 		border-bottom:black 2px solid;
 		border-top: 2px #6f6f6f solid;
 }
 .button.number {
 		color: white;
-		background-color: #cc4328;
+		background-image: url("trippy.gif");
 		border-bottom: black 2px solid;
 		border-top: 2px #6f6f6f solid;
 }
