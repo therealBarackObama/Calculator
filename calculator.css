@@ -14,12 +14,12 @@ body {
 		position: relative;
 		top: 80px;
 		left: 40%;
-		background-image: url("trippy.gif")
+		background-image: url("background-image.jpeg")
 }
 
 /* Display */
 .display {
-		background-image: url("circletotriangle.gif");
+		background-color: white;
 		width: 220px;
 		position: relative;
 		left: 15px;
@@ -33,7 +33,7 @@ body {
 			height: 30px;
 			width: 210px;
 			color: black;
-			background-image: url("trippy.gif");
+			background-color: white;
 			font-size: 21px;
 			text-align: right;
 }
@@ -54,19 +54,19 @@ body {
 }
 .button.function {
 		color: white;
-		background-image: url("trippy.gif");
+		background-image: url("download.jpeg");
 		border-bottom: black 2px solid;
 		border-top: 2px #6f6f6f solid;
 }
 .button.operator {
 		color: white;
-		background-image: url("trippy.gif");
+		background-image: url("download.jpeg");
 		border-bottom:black 2px solid;
 		border-top: 2px #6f6f6f solid;
 }
 .button.number {
 		color: white;
-		background-image: url("trippy.gif");
+		background-image: url("download.jpeg");
 		border-bottom: black 2px solid;
 		border-top: 2px #6f6f6f solid;
 }
