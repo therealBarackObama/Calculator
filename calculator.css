@@ -1,6 +1,10 @@
 @charset "UTF-8";
 /* CSS Document */
 
+body {
+	background-image: url("trippy.gif")
+}
+
 /*Calculator Box */
 .box {
 		background-color: #e5e7ea;
