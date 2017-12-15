@@ -18,4 +18,6 @@ function e() {
 		catch(err) {
 			d("Error");
 		}
+//my own function
+
 }
